@@ -264,24 +264,24 @@ outcomes.
 <table align="center">
 <tr>
 <td align="center">
-<img src="/Images/Age%20Trend.png" width="400"><br>
+<img src="/Images/Age%20Trend.png" width="600"><br>
 <b>Age Points Trend</b>
 </td>
 
 <td align="center">
-<img src="/Images/First%20Language%20Trend.png" width="400"><br>
+<img src="/Images/First%20Language%20Trend.png" width="600"><br>
 <b>First Language Points Trend</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Images/Higher%20Education%20Trend.png" width="400"><br>
+<img src="/Images/Higher%20Education%20Trend.png" width="600"><br>
 <b>Higher Education Points Trend</b>
 </td>
 
 <td align="center">
-<img src="/Images/Spouce%20points%20Trend.png" width="400"><br>
+<img src="/Images/Spouce%20points%20Trend.png" width="600"><br>
 <b>Spouse Points Trend</b>
 </td>
 </tr>
@@ -304,6 +304,7 @@ outcomes.
 ## 👨‍💻 Author : **Gopi Velmurugan**
 - [**Linkedin**](https://www.linkedin.com/in/gopi-velmurugan-65249716a/)   
 - [**Gmail**](mailto:gopiofficialca20@gmail.com)
+
 
 
 
