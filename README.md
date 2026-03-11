@@ -261,29 +261,31 @@ outcomes.
 
 ## 🖼️ Screenshots Dashboard Overview
 
-<p align="center">
-<img src="/Images/Age%20Trend.png" width="700">
-<br>
+<table align="center">
+<tr>
+<td align="center">
+<img src="/Images/Age%20Trend.png" width="400"><br>
 <b>Age Points Trend</b>
-</p>
+</td>
 
-<p align="center">
-<img src="/Images/First%20Language%20Trend.png" width="700">
-<br>
+<td align="center">
+<img src="/Images/First%20Language%20Trend.png" width="400"><br>
 <b>First Language Points Trend</b>
-</p>
+</td>
+</tr>
 
-<p align="center">
-<img src="/Images/Higher%20Education%20Trend.png" width="700">
-<br>
+<tr>
+<td align="center">
+<img src="/Images/Higher%20Education%20Trend.png" width="400"><br>
 <b>Higher Education Points Trend</b>
-</p>
+</td>
 
-<p align="center">
-<img src="/Images/Spouce%20points%20Trend.png" width="700">
-<br>
+<td align="center">
+<img src="/Images/Spouce%20points%20Trend.png" width="400"><br>
 <b>Spouse Points Trend</b>
-</p>
+</td>
+</tr>
+</table>
 
 ## 🧰 Tools & Technologies
 
@@ -302,6 +304,7 @@ outcomes.
 ## 👨‍💻 Author : **Gopi Velmurugan**
 - [**Linkedin**](https://www.linkedin.com/in/gopi-velmurugan-65249716a/)   
 - [**Gmail**](mailto:gopiofficialca20@gmail.com)
+
 
 
 
