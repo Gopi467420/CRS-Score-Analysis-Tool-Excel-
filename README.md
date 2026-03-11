@@ -13,10 +13,10 @@ A qualified Immigration Lawyer
 The official IRCC website
 
 ## 👁️How to Use
-Video here
+
 ![Tool Demo](/Images/GIF/CRS%20Tool%20Demo%20(1).gif)
-![Tool Demo](/Images/GIF/CRS%20Tool%20Demo.mp4)
-[*CLICK TO DOWNLOAD*](https://github.com/Gopi467420/CRS-Score-Analysis-Tool-Excel-/blob/main/CRS%20Macro.xlsm)
+
+[*Dashboard*](https://github.com/Gopi467420/CRS-Score-Analysis-Tool-Excel-/blob/main/CRS%20Macro.xlsm)
 
 
 
@@ -298,5 +298,6 @@ Spouse Points Trend
 ## 👨‍💻 Author : **Gopi Velmurugan**
 - [**Linkedin**](https://www.linkedin.com/in/gopi-velmurugan-65249716a/)   
 - [**Gmail**](mailto:gopiofficialca20@gmail.com)
+
 
 
