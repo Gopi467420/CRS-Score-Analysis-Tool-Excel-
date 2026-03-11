@@ -13,8 +13,13 @@ A qualified Immigration Lawyer
 The official IRCC website
 
 ## 👁️How to Use
-**Reset Data | Enter Data | Analyze Trends**
+
 ![Tool Demo](/Images/GIF/CRS%20Tool%20Demo%20(1).gif)
+
+<p align="center"><b>   
+**Reset Data | Enter Data | Analyze Trends**
+</b><p>
+
 
 [*Dashboard*](https://github.com/Gopi467420/CRS-Score-Analysis-Tool-Excel-/blob/main/CRS%20Macro.xlsm)
 
@@ -304,6 +309,7 @@ outcomes.
 ## 👨‍💻 Author : **Gopi Velmurugan**
 - [**Linkedin**](https://www.linkedin.com/in/gopi-velmurugan-65249716a/)   
 - [**Gmail**](mailto:gopiofficialca20@gmail.com)
+
 
 
 
